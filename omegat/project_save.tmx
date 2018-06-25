@@ -16,6 +16,14 @@ Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E.g.:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="mbsd" changedate="20180625T081301Z" creationid="mbsd" creationdate="20180625T081301Z">
+        <seg>例:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's often used for setting `X-Frame-Options` header (ClickJacking protection), but there may be other cases.</seg>
       </tuv>
       <tuv lang="JA" changeid="mbsd" changedate="20180625T080015Z" creationid="mbsd" creationdate="20180625T080015Z">
