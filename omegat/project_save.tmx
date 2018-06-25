@@ -14,6 +14,14 @@ Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_
 Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) allows to block the access to service for requests with wrong `Referer` value.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's often used for setting `X-Frame-Options` header (ClickJacking protection), but there may be other cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="mbsd" changedate="20180625T080015Z" creationid="mbsd" creationdate="20180625T080015Z">
+        <seg>あIt's often used for setting `X-Frame-Options` header (ClickJacking protection), but there may be other cases.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
