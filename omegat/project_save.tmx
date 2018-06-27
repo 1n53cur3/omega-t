@@ -9,8 +9,8 @@
         <seg># [valid_referers] none in valid_referers
 Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) allows to block the access to service for requests with wrong `Referer` value.</seg>
       </tuv>
-      <tuv lang="JA" changeid="mbsd" changedate="20180625T073734Z" creationid="mbsd" creationdate="20180625T073734Z">
-        <seg># [valid_referers] いえええい
+      <tuv lang="JA" changeid="mbsd" changedate="20180627T020303Z" creationid="mbsd" creationdate="20180625T073734Z">
+        <seg># [valid_referers] hage
 Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) allows to block the access to service for requests with wrong `Referer` value.</seg>
       </tuv>
     </tu>
