@@ -4,6 +4,32 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg># [valid_referers] none in valid_referers
+Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) allows to block the access to service for requests with wrong `Referer` value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="mbsd" changedate="20180625T073734Z" creationid="mbsd" creationdate="20180625T073734Z">
+        <seg># [valid_referers] いえええい
+Module [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) allows to block the access to service for requests with wrong `Referer` value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E.g.:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="mbsd" changedate="20180625T081301Z" creationid="mbsd" creationdate="20180625T081301Z">
+        <seg>例:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's often used for setting `X-Frame-Options` header (ClickJacking protection), but there may be other cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="mbsd" changedate="20180625T080015Z" creationid="mbsd" creationdate="20180625T080015Z">
+        <seg>あIt's often used for setting `X-Frame-Options` header (ClickJacking protection), but there may be other cases.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
